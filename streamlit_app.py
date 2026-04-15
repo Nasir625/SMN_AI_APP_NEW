@@ -1,5 +1,5 @@
 import streamlit as st
-user_question = st.text_input("Ask me a question!").
+user_question = st.text_input("Ask me a question!"):
 if st.button("Submit"):
     st.title("SMN_AI🤖")
     st.write(
